@@ -3,8 +3,8 @@ body {
 	color: black;
 	font-size: 14px;
 
-	margin: 0;
-	padding: 0;
+	/* margin: 0;
+	padding: 0; */
 }
 
 .link {
@@ -18,4 +18,17 @@ body {
 }
 
 .button {
+	color: white;
+	background-color: #2196f3;
+	border-style: none;
+	border-radius: 4px;
+	width: 200px;
+	height: 50px;
+	font-weight: 700;
+	font-size: 16px;
+}
+
+.button:hover {
+	color: #2196f3;
+	background-color: white;
 }
