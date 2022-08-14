@@ -1,0 +1,21 @@
+body {
+	font-family: 'Roboto', 'Raleway', sans-serif;
+	color: black;
+	font-size: 14px;
+
+	margin: 0;
+	padding: 0;
+}
+
+.link {
+	color: rgb(0, 0, 0);
+	font-weight: 500;
+	text-decoration: none;
+}
+
+.link:hover {
+	color: #2196f3;
+}
+
+.button {
+}
