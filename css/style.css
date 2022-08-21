@@ -30,23 +30,20 @@ body {
 
 .button:hover {
 	color: #2196f3;
-	background-color: #F5F4FA;}
-
-
+	background-color: #f5f4fa;
+}
 
 .link[title] {
-	color:rgb(0, 0, 0);
-  }
-
+	color: rgb(0, 0, 0);
+}
 
 .list-style {
-
-	list-style-type:none
+	list-style-type: none;
 }
 
 .button-port {
 	color: rgb(0, 0, 0);
-	background-color: #F5F4FA;
+	background-color: #f5f4fa;
 	border-style: none;
 	border-radius: 4px;
 	width: 200px;
@@ -54,10 +51,15 @@ body {
 	font-weight: 700;
 	font-size: 16px;
 	cursor: all-col-resize;
-
 }
 
 .button-port:hover {
 	color: white;
 	background-color: #2196f3;
+}
+
+.product-card-header {
+}
+
+.product-card-text {
 }
